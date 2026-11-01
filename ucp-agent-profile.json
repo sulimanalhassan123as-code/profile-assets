@@ -1,0 +1,13 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "supported_versions": { "2026-08-25": "https://ucp.dev/2026-08-25/specification/overview/" },
+    "platform": {
+      "name": "Kestrel Scope Check",
+      "version": "0.1.0",
+      "profile": "https://raw.githubusercontent.com/sulimanalhassan123as-code/profile-assets/main/ucp-agent-profile.json",
+      "contact": "cyberzero12@wearehackerone.com"
+    },
+    "capabilities": {}
+  }
+}
